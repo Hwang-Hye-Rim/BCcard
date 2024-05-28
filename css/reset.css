@@ -1,0 +1,17 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+a{text-decoration: none; color: #2B2B2B; display: block;}
+ul{list-style: none;}
+img{width: 100%; object-fit: cover; display: block;}
+
+@font-face {
+    font-family: 'paybooc-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/paybooc-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: 'paybooc';
+    color: #2B2B2B;
+    font-weight: 700;
+}
